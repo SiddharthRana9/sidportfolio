@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: ["/"],
       disallow: "/private/",
     },
-    sitemap: "https://omrawat.xyz/sitemap.xml",
+    sitemap: "https://siddharth.xyz/sitemap.xml",
   };
 }
